@@ -1,4 +1,4 @@
-﻿Daniel15
+﻿Daniel15 An amazing project
 ========
 
 This is the code that powers [my personal website](https://dan.cx/) and blog. It uses C# and the ASP.NET Core MVC framework, with some older bits in PHP.
